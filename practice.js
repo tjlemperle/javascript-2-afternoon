@@ -14,7 +14,7 @@
   Then alert your name using dot notation.
 */
 
-//Code here
+code
 
 ////////// PROBLEM 2 //////////
 
